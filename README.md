@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá! Bem vindo ao meu perfil!
 
-<!--
-**joelmcfilho/joelmcfilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Me chamo Joel, sou Engenheiro de Software especializado em Desenvolvimento Back-End.
 
-Here are some ideas to get you started:
+## Stacks
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos Finalizados/Em Suporte
+- ![Pipeline de Dados para Healthcare Vertical SaaS](https://github.com/joelmcfilho/healthtech)
+- ![1001 Tarefas](https://github.com/joelmcfilho/1001tarefas)
+- ![Threads Text Checker](https://github.com/joelmcfilho/threads_text_checker)
+- ![Calculadora Simples OOP Python+Tkinter(GUI)](https://github.com/joelmcfilho/calc_oop)
+- E demais projetos de Bootcamps e cursos realizados...
+
+## Projetos em Andamento
+
+- Inspetor Digital (Se tornará público na versão 1.0)
+- Comprar E Vender (Se tornará público 
